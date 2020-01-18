@@ -20,4 +20,5 @@ For more information about other parts of the project, read the subject "corewar
 
 ## Visual
 
-Created by [dmatseku](https://github.com/dmatseku)
+Programing visual by [dmatseku](https://github.com/dmatseku).
+Sketch for create, created [i](https://github.com/vyunak).
