@@ -20,5 +20,5 @@ For more information about other parts of the project, read the subject "corewar
 
 ## Visual
 
-Programing visual by [dmatseku](https://github.com/dmatseku).
-Sketch for create, created [i](https://github.com/vyunak).
+Software visualization by [dmatseku](https://github.com/dmatseku).
+[I](https://github.com/vyunak) created the sketch.
