@@ -18,7 +18,8 @@ You must also specify the path to them in the main Makefile and to their header 
 
 For more information about other parts of the project, read the subject "corewar.en.pdf" at the root of the project.
 
-## Visual
+## Visual ##
 
 Software visualization by [dmatseku](https://github.com/dmatseku).
+
 [I](https://github.com/vyunak) created the sketch.
