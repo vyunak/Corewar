@@ -3,7 +3,7 @@
 42 School project.
 
 This is a game based on a game that was popular at the beginning of this century: Core Wars.
-It is a team project, so I was make visual part. My part of the project is located in the "ASSEMBLER" folder.
+It is a team project, so I was make check and parse for assembling part. My part of the project is located in the "ASSEMBLER" folder.
 
 ## Compilation ##
 
