@@ -3,7 +3,7 @@
 42 School project.
 
 This is a game based on a game that was popular at the beginning of this century: Core Wars.
-It is a team project, so I was make visual part. My part of the project is located in the "libgcorewar" folder.
+It is a team project, so I was make visual part. My part of the project is located in the "ASSEMBLER" folder.
 
 ## Compilation ##
 
@@ -17,3 +17,7 @@ You must also specify the path to them in the main Makefile and to their header 
 ![visual image](https://raw.githubusercontent.com/vyunak/Corewar/master/Screenshot.png)
 
 For more information about other parts of the project, read the subject "corewar.en.pdf" at the root of the project.
+
+## Visual
+
+Created by [dmatseku](https://github.com/dmatseku)
