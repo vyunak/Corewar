@@ -9,7 +9,7 @@ It is a team project, so I was make check and parse for assembling part. My part
 
 For compilation, use make.
 
-This project need some libraries: libGLFW, libGLEW, libfreetype and my libraries, that i have int my github account: libmatrix, libglstring, libglKH.
+This project need some libraries: libGLFW, libGLEW, libfreetype and my libraries, and [dmatseku](https://github.com/dmatseku) librarys: [libmatrix](https://github.com/dmatseku/libmatrix), [libglstring](https://github.com/dmatseku/libglstring), [libglKH](https://github.com/dmatseku/libglKH).
 You must also specify the path to them in the main Makefile and to their header files in the Makefile, which is located in libgcorewar.
 
 ## About project ##
